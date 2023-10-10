@@ -6,7 +6,7 @@
 
 - **Current Weather**: Mostra i dati meteo attuali basati sulla tua posizione GPS, inclusa la temperatura. 🌡️
 - **Upcoming Weather**: Visualizza le previsioni del tempo per i prossimi 3 giorni. 📅
-- **Altre Informazioni**: Accedi a informazioni aggiuntive come umidità, pressione, popolazione, tramonto e alba. 🌬️🌎🌇🌆
+- **City**: Accedi a informazioni aggiuntive come umidità, pressione, popolazione, tramonto e alba. 🌬️🌎🌇🌆
 
 ## Requisiti
 
